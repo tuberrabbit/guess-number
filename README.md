@@ -52,3 +52,5 @@ download gradle-2.3 && use it to gradle a project demo.
 lean how to write README.md && how to add a LICENSE.md and .gitignore files.
 
 be familiar with idea's shortcut on mac-10.5+
+
+also create LICENSE.md && .gitignore files.
