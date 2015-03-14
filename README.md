@@ -1,5 +1,10 @@
 # guess-number
-需求
+
+this is a TDD practice, and practice for TDD.
+use gradle-2.1 to management package dependencies.
+use idea to develop project
+
+## 需求
 
 游戏有四个格子，每个格子有一个0到9的数字，任意两个格子的数字都不一样。
 你有6次猜测的机会，如果猜对则获胜，否则失败。
@@ -17,3 +22,8 @@
 1 2		输入不正确，重新输入
 答案在游戏开始时随机生成。输入只有6次机会，在每次猜测时，程序应给出当前猜测的结果，以及之前所有猜测的数字和结果以供玩家参考。输入界面为控制台（Console），以避免太多与问题无关的界面代码。输入时，用空格分隔数字。
 --
+
+## task1
+
+当user输入所有正确的数字时，系统应该输出“4A0B”。测试方法为：
+should_return_4A0B_when_all_number_are_correct();
