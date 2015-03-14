@@ -60,8 +60,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92385787" vertical-offset="71" max-vertical-offset="525">
-              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.84771574" vertical-offset="26" max-vertical-offset="525">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -770,7 +770,7 @@
       <updated>1425976477028</updated>
       <workItem from="1425976482448" duration="6699000" />
       <workItem from="1426349450675" duration="2041000" />
-      <workItem from="1426352969686" duration="2309000" />
+      <workItem from="1426352969686" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="[tuber] add test to test app could be run.">
       <created>1425980001577</created>
@@ -790,11 +790,17 @@
       <option name="project" value="LOCAL" />
       <updated>1426355190483</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[tuber] write a better README.md.">
+      <created>1426355390532</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1426355390532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11049000" />
+    <option name="totallyTimeSpent" value="11241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="767" extended-state="0" />
@@ -973,8 +979,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92385787" vertical-offset="71" max-vertical-offset="525">
-          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.84771574" vertical-offset="26" max-vertical-offset="525">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding />
         </state>
       </provider>
