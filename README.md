@@ -37,7 +37,18 @@ use idea to develop project.
 
 --
 
-## task1
+## check-points
+task1
 
 当user输入所有正确的数字时，系统应该输出“4A0B”。测试方法为：
 should_return_4A0B_when_all_number_are_correct();
+
+## get new skills
+
+install zsh script && iterm2, and study their syntax.
+
+download gradle-2.3 && use it to gradle a project demo.
+
+lean how to write README.md && how to add a LICENSE.md and .gitignore files.
+
+be familiar with idea's shortcut on mac-10.5+
