@@ -2,6 +2,7 @@
 guess-number.iml
 guess-number.ipr
 guess-number.iws
+.idea
 
 #gradle
 .gradle
