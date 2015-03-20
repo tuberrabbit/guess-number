@@ -1,11 +1,11 @@
 # guess-number  
-==
+--
 this is a TDD practice, and practice for TDD.  
 use gradle-2.1 to management package dependencies.  
 use idea to develop project.  
 
 ## 需求  
-==
+--
 游戏有四个格子，每个格子有一个0到9的数字，任意两个格子的数字都不一样。  
 你有6次猜测的机会，如果猜对则获胜，否则失败。  
 每次猜测时需依序输入4个数字，程序会根据猜测的情况给出xAxB的反馈，A前面的数字代表位置和数字都对的个数，B前面的数字代表数字对但是位置不对的个数。  
@@ -24,36 +24,26 @@ use idea to develop project.
 输入界面为控制台（Console），以避免太多与问题无关的界面代码。输入时，用空格分隔数字。
 
 ## check-points
-==
-*task1  
 --
+*task1
 当输入所有正确的数字时，应该输出“4A0B”。
 
-*task2  
---
+*task2
 当输入格式正确，但是答案不对，应该输出“xAxB”格式的错误信息。  
 
-*task3  
---
+*task3
 当输入格式不对，应该输出“输入不正确，重新输入”。  
 
-*task4  
---
+*task4
 当有效输入第6次，还没有猜对，应该输出“失败”。  
 
 
 ## get new skills
-==
-学习了zsh和Iterm2  
-用gradle－2.3管理项目  
-添加了readme、license、gitignore文件  
-熟悉快捷键（mac－10.5+）  
-添加包依赖
+--
++ 学习了zsh和Iterm2
++ 用gradle－2.3管理项目
++ 添加了readme、license、gitignore文件
++ 熟悉快捷键（mac－10.5+）
++ 添加包依赖
 
-没有配置CI
-
-install zsh script && iterm2, and study their syntax.  
-download gradle-2.3 && use it to gradle a project demo.  
-lean how to write README.md && how to add a LICENSE.md and .gitignore files.  
-be familiar with idea's shortcut on mac-10.5+  
-also create LICENSE.md && .gitignore files.
++ 没有配置CI
